@@ -1,0 +1,14 @@
+input[type='submit'], button, [aria-label]{
+    cursor: pointer;
+    border-color: goldenrod;
+  }
+  #editForm{
+    display: none;
+  }
+  #counter {
+      font-weight: bold;
+      
+  }
+  #seek{
+      
+  }
